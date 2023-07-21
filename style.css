@@ -1,10 +1,7 @@
-html, body {
-    height: 100%;
-    min-height: 100%;
-}
+
 
 body {
-    background: url(./images/sky.jpg);
+    background: #faebd7
 }
 
 h1, h2 {
@@ -23,4 +20,10 @@ h2 {
     text-align: center;
 }
 
+.footer {
+    color: grey;
+}
 
+.table {
+    color:violet;
+}
